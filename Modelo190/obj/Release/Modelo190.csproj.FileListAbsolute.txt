@@ -1,0 +1,17 @@
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\bin\Release\Modelo190.exe
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\bin\Release\Modelo190.pdb
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\MainWindow.baml
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\MainWindow.g.cs
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\App.g.cs
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190_MarkupCompile.cache
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.g.resources
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.Properties.Resources.resources
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.csproj.GenerateResource.Cache
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.exe
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.pdb
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.csprojResolveAssemblyReference.cache
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\bin\Release\Modelo190.exe.manifest
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\bin\Release\Modelo190.application
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.TrustInfo.xml
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.exe.manifest
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\Modelo190\obj\Release\Modelo190.application

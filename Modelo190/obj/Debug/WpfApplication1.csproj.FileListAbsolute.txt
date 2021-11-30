@@ -1,0 +1,14 @@
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Modelo190.exe
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Modelo190.pdb
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Modelo190_MarkupCompile.cache
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Modelo190.g.resources
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Modelo190.Properties.Resources.resources
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Modelo190.exe
+c:\users\efernandez\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\Modelo190.pdb
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\WpfApplication1\obj\Debug\Modelo190.exe
+C:\Users\efernandez\Documents\Visual Studio 2013\Projects\Modelo190\WpfApplication1\obj\Debug\Modelo190.pdb
