@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo190", "Modelo190\Modelo190.csproj", "{0EAF6C75-AAF4-47EF-985F-6CE8287CF5AD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Modelo190", "Setup_Modelo190\Setup_Modelo190.vdproj", "{D5AA42EB-1736-4587-A3DD-68185BF7540C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{0EAF6C75-AAF4-47EF-985F-6CE8287CF5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EAF6C75-AAF4-47EF-985F-6CE8287CF5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EAF6C75-AAF4-47EF-985F-6CE8287CF5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5AA42EB-1736-4587-A3DD-68185BF7540C}.Debug|Any CPU.ActiveCfg = Debug
+		{D5AA42EB-1736-4587-A3DD-68185BF7540C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

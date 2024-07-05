@@ -94,7 +94,7 @@ namespace WpfApplication1
                 {
                     NUMEROTOTALPERCEPCIONES += Int32.Parse(s.Substring(136, 8));
                     IMPORTETOTALPERCEPCIONES += Int32.Parse(s.Substring(145, 15));
-                    TOTALRETENCIONESEINGRESOS += Int32.Parse(s.Substring(161, 15));
+                    TOTALRETENCIONESEINGRESOS += Int32.Parse(s.Substring(160, 15));
                     //NUMEROTOTALPERCEPCIONES += 1;
                     //IMPORTETOTALPERCEPCIONES += Int32.Parse(s.Substring(81, 26));
                     //IMPORTETOTALPERCEPCIONES += Int32.Parse(s.Substring(108, 39));
@@ -107,12 +107,14 @@ namespace WpfApplication1
                 cabecera += ' ';
                 cabecera += IMPORTETOTALPERCEPCIONES.ToString().PadLeft(15, '0');
                 cabecera += TOTALRETENCIONESEINGRESOS.ToString().PadLeft(15, '0');
-                string ms = "";
-                if (hayDuplicados(ms))
+
+                if (hayDuplicados())
                 {
-                    MessageBox.Show("DNI duplicado: " + "\n" + ms);
+                    MessageBox.Show("DNI duplicado/s: " + Environment.NewLine + dni_duplicados);
+                    dni_duplicados = "";
                     return;
                 }
+
                 //Crear string result
                 resultado.Add(cabecera);
                 foreach (var s in lineas)
@@ -131,6 +133,8 @@ namespace WpfApplication1
 
         List<string> file1DNIs = new List<string>();
         List<string> file2DNIs = new List<string>();
+        string dni_duplicados = "";
+
         private void generarLista1(String s, int i)
         {
             String dni = s.Substring(17, 9);
@@ -150,14 +154,14 @@ namespace WpfApplication1
             }
         }
 
-        private Boolean hayDuplicados(string ms) 
+        private Boolean hayDuplicados() 
         {
             Boolean resultado = false;
             foreach (String s in file1DNIs)
             {
                 if (file2DNIs.Contains(s))
                 {
-                    ms += s + "\n";
+                    dni_duplicados += s + Environment.NewLine;
                     resultado =  true;
                 }      
             }
